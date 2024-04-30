@@ -25,11 +25,16 @@ In this project, users may:
 
 To install the project you can follow this guide:
 - First, I recommend you change the directory you would like to clone this repository, preferably an easy-to-access one.
-- This can be done with very easily, just like the folloowing examples:
-```
-cd path-to-the-directory for linux
+- This can be done with very easily, just like the following examples:
 
-dir path-to-the-directory for windows
+In a machine with linux you can go to the terminal and type: 
+```
+cd path-to-the-directory
+```
+
+In a machine with windows you can go to your command prompt and type
+```
+dir path-to-the-directory
 ```
 - Next, you can copy and paste the following commands into your terminal in the same order they are written.
 - Clone the repository
