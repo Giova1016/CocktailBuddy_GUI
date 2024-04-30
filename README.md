@@ -1,6 +1,6 @@
 # CocktailBuddy App
 
-A brief description of what the project does.
+This project is a working prototype for a GUI integrated with databases using the SQLite3 python module.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ A brief description of what the project does.
 
 ## Introduction
 
-This is a project for a computer engineering course. The purpose for the project was to create a working GUI for the idea we came up with during our course.
+This is a project made for a computer engineering course. The project's purpose was to create a working GUI for the idea we came up with during our course, a Mocktail application for mobile devices.
 This project helped us learn how to create a working GUI and integrate SQLite databases to improve it further.
 
 ## Features
@@ -25,7 +25,7 @@ In this project, users may:
 
 To install the project you can follow this guide:
 - First, I recommend you change the directory you would like to clone this repository, preferably an easy-to-access one.
-- Next make a Python virtual environment with the following command.
+- Next, make a Python virtual environment with the following command.
 
 ```
 python<version> -m venv <virtual-environment-name>
