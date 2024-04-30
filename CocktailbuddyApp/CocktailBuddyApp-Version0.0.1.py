@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 
 # Saving the Users database to the same file as this Python code.
 dir = os.path.dirname(os.path.abspath(__file__))
-saved_db = os.path.join(dir, 'data\CocktailBuddyUsers.db') 
+saved_db = os.path.join(dir, 'CocktailbuddyApp\data\CocktailBuddyUsers.db') 
 
 
 # Connect to SQLite database
@@ -15,7 +15,7 @@ conn = sqlite3.connect(saved_db)
 cursor = conn.cursor()
 
 # Connect to the CocktailBuddyBeverages.db database
-beverages_db = os.path.join(dir, 'data\CocktailBuddyBeverages.db')
+beverages_db = os.path.join(dir, 'CocktailbuddyApp\data\CocktailBuddyBeverages.db')
 conn_beverages = sqlite3.connect(beverages_db)
 cursor_beverages = conn_beverages.cursor()
 
@@ -234,7 +234,7 @@ def open_preferences_window(username):
     save_button.grid(row=1, column=0, columnspan=2, pady=10)
 
     #Loading Image using PIL
-    image_path = "CocktailLogo.png"
+    image_path = "CocktailbuddyApp\CocktailLogo.png"
     pil_image = Image.open(image_path)
     pil_image = pil_image.resize((128,128))
     
@@ -342,7 +342,7 @@ def change_preferences_window():
     save_button.grid(row=1, column=0, columnspan=2, pady=10)
 
     #Loading Image using PIL
-    image_path = "CocktailLogo.png"
+    image_path = "CocktailbuddyApp\CocktailLogo.png"
     pil_image = Image.open(image_path)
     pil_image = pil_image.resize((128,128))
     
@@ -374,7 +374,7 @@ def open_suggestions_window(suggestions, username):
     suggestions_window.option_add("Font", "Kanit") # Set the font of the text to Kanit
 
     # Load and display the logo
-    logo_path = "CocktailLogo.png"
+    logo_path = "CocktailbuddyApp\CocktailLogo.png"
     logo_image = Image.open(logo_path)
     logo_image = logo_image.resize((128, 128))
     tk_logo_image = ImageTk.PhotoImage(logo_image)
@@ -421,7 +421,7 @@ root.configure(bg="#EFE8D6") # Set the background color to cream
 root.option_add("Font", "Kanit") # Set the font of the text to Kanit
 
 #Loading Image using PIL
-image_path = "CocktailLogo.png"
+image_path = "CocktailbuddyApp\CocktailLogo.png"
 pil_image = Image.open(image_path)
 pil_image = pil_image.resize((128,128))
 
