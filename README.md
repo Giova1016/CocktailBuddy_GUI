@@ -71,7 +71,7 @@ cd CocktailbuddyApp
 pip install -r requirements.txt
 ```
 - Lastly you can run the .py file conrainkng the code with rhe following command
-```bash
+```
 python<version> <file_name>.py
 ```
 
