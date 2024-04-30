@@ -1,14 +1,12 @@
 # CocktailBuddy App
 
-This project is a working prototype for a GUI integrated with databases using the SQLite3 python module.
+This project is a working prototype for a GUI integrated with databases using the SQLite3 Python module.
 
 ## Table of Contents
-
-- [Project Title](#CocktailBuddyAppDownload)
-  - [Introduction](#introduction)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Contributing](#contributing)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Contributing](#contributing)
 
 ## Introduction
 
@@ -27,13 +25,13 @@ To install the project you can follow this guide:
 - First, I recommend you change the directory you would like to clone this repository, preferably an easy-to-access one.
 - This can be done very easily, just like the following examples:
 
-In a machine with Linux you can go to the terminal and type: 
+In a machine with Linux, you can go to the terminal and type: 
 
 ```
 cd path-to-the-directory
 ```
 
-In a machine with Windows you can go to your command prompt and type
+In a machine with Windows, you can go to your command prompt and type
 
 ```
 dir path-to-the-directory
