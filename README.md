@@ -23,8 +23,8 @@ In this app, users can:
 ## Installation
 
 To install the project you can follow this guide:
--It is required for you to have a working Python interpreter, you can download it in the official website or from the Microsoft store.
--Once that is done, I recommend you change the directory to the one you would like to clone this repository, preferably an easy-to-access one like the Desktop.
+- It is required for you to have a working Python interpreter, you can download it in the official website or from the Microsoft store.
+- Once that is done, I recommend you change the directory to the one you would like to clone this repository, preferably an easy-to-access one like the Desktop.
 - This can be done very easily, just like the following examples:
 
 In a machine with Linux, you can go to the terminal and type: 
