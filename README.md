@@ -25,27 +25,49 @@ In this project, users may:
 
 To install the project you can follow this guide:
 - First, I recommend you change the directory you would like to clone this repository, preferably an easy-to-access one.
+- Next make a Python virtual environment with the following command.
+
+```
+python<version> -m venv <virtual-environment-name>
+```
+
+- Here is an example of what it would look like If you would instead prefer to make a directory first.
+
+```bash
+mkdir project
+cd project
+python3 -m venv env
+```
+
 - This can be done with very easily, just like the following examples:
 
 In a machine with linux you can go to the terminal and type: 
+
 ```
 cd path-to-the-directory
 ```
 
 In a machine with windows you can go to your command prompt and type
+
 ```
 dir path-to-the-directory
 ```
+
 - Next, you can copy and paste the following commands into your terminal in the same order they are written.
 - Clone the repository
+
 ```bash
 git clone https://github.com/Giova1016/CocktailBuddyAppDownload.git
 ```
+
 - Navigate to the project directory
+
 ```bash
 cd CocktailbuddyApp
 ```
+
 - Install the required dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
