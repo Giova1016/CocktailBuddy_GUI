@@ -44,9 +44,10 @@ dir path-to-the-directory
 python<version> -m venv <virtual-environment-name>
 ```
 
-- Here is an example of what it would look like If you would instead prefer to make a directory first.
+- Here is an example of what it would look like if you were to do it on a Linux machine and make a new directory.
 
 ```bash
+cd Desktop
 mkdir project
 cd project
 python3 -m venv env
