@@ -45,11 +45,11 @@ python<version> -m venv <virtual-environment-name>
 
 - Here is an example of what it would look like if you were to do it on a Linux machine and make a new directory.
 
-```bash
+```
 cd Desktop
-mkdir project
-cd project
-python3 -m venv env
+mkdir CocktailBuddyApp
+cd CocktailBuddyApp 
+python -m venv env
 ```
 
 - Next, you can copy and paste the following commands into your terminal in the same order they are written.
@@ -62,7 +62,7 @@ git clone https://github.com/Giova1016/CocktailBuddyAppDownload.git
 - Navigate to the project directory
 
 ```bash
-cd CocktailbuddyApp
+cd CocktailBuddyApp
 ```
 
 - Install the required dependencies
