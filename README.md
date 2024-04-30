@@ -10,20 +10,21 @@ This project is a working prototype for a GUI integrated with databases using th
 
 ## Introduction
 
-This is a project made for a computer engineering course. The project's purpose was to create a working GUI for the idea we came up with during our course, a Mocktail application for mobile devices.
+This is a project made for a computer engineering course. The project's purpose was to create a working GUI for the idea we came up with during the course, in our case a Mocktail suggesting application based on user preferences.
 This project helped us learn how to create a working GUI and integrate SQLite databases to improve it further.
 
 ## Features
 
-In this project, users will:
+In this app, users can:
 - Register and log in with their saved credentials.
 - Select their desired preferences from a list of mocktail flavors along with levels of preferred sweetness/bitterness.
-- Be shown a list of Beverages that meet their preferences or at least some of them. 
+- Be shown a list of Beverages, from a database with 34 different mocktails, that meet their preferences or at least some of them. 
 
 ## Installation
 
 To install the project you can follow this guide:
-- First, I recommend you change the directory you would like to clone this repository, preferably an easy-to-access one.
+-It is required for you to have a working Python interpreter, you can download it in the official website or from the Microsoft store.
+-Once that is done, I recommend you change the directory to the one you would like to clone this repository, preferably an easy-to-access one like the Desktop.
 - This can be done very easily, just like the following examples:
 
 In a machine with Linux, you can go to the terminal and type: 
