@@ -27,16 +27,10 @@ To install the project you can follow this guide:
 - Once that is done, I recommend you change the directory to the one you would like to clone this repository, preferably an easy-to-access one like the Desktop.
 - This can be done very easily, just like the following examples:
 
-In a machine with Linux, you can go to the terminal and type: 
+In a machine with Linux or in the Windows PowerShell, you can go to the terminal and type: 
 
 ```
-cd path-to-the-directory
-```
-
-In a machine with Windows, you can go to your command prompt and type
-
-```
-dir path-to-the-directory
+cd directory
 ```
 - Next, make a Python virtual environment with the following command.
 
