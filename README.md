@@ -72,4 +72,4 @@ pip install -r requirements.txt
 ```
 
 ## Contributing
-I want to thank my friend @Omar-Torres11 for helping me write some of the code for this project. You were an amazing help during the time we spent making this GUI.
+I want to thank my friend [@Omar-Torres11](https://github.com/Omar-Torres11) for helping me write some of the code for this project. You were an amazing help during the time we spent making this GUI.
