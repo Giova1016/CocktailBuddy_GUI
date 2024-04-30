@@ -15,9 +15,10 @@ This project helped us learn how to create a working GUI and integrate SQLite da
 
 ## Features
 
-In this project, users may:
+In this project, users will:
 - Register and log in with their saved credentials.
 - Select their desired preferences from a list of mocktail flavors along with levels of preferred sweetness/bitterness.
+- Be shown a list of Beverages that meet their preferences or at least some of them. 
 
 ## Installation
 
