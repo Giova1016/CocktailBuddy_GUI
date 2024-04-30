@@ -27,14 +27,16 @@ To install the project you can follow this guide:
 - First, I recommend you change the directory you would like to clone this repository, preferably an easy-to-access one.
 - This can be done with a simple cd path-to-the-directory or dir path-to-the-directory.
 - Next, you can copy and paste the following commands into your terminal in the same order they are written.
+- Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Giova1016/CocktailBuddyAppDownload.git
-
-# Navigate to the project directory
-cd your_project
-
-# Install the required dependencies
+```
+- Navigate to the project directory
+```bash
+cd CocktailbuddyApp
+```
+- Install the required dependencies
+```bash
 pip install -r requirements.txt
 ```
 
