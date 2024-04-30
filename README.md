@@ -1,4 +1,4 @@
-# Project Title
+# CocktailBuddy App
 
 A brief description of what the project does.
 
