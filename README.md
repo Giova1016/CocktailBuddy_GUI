@@ -23,11 +23,11 @@ In this app, users can:
 ## Installation
 
 To install the project you can follow this guide:
-- It is required for you to have a working Python interpreter, you can download it in the official website or from the Microsoft store.
+- It is required for you to have a working Python interpreter, you can download it from the official website or the Microsoft store.
 - Once that is done, I recommend you change the directory to the one you would like to clone this repository, preferably an easy-to-access one like the Desktop.
 - This can be done very easily, just like the following examples:
 
-In a machine with Linux or in the Windows PowerShell, you can go to the terminal and type: 
+In a machine with Linux or the Windows PowerShell, you can go to the terminal and type: 
 
 ```
 cd directory
@@ -65,7 +65,7 @@ cd CocktailBuddyApp
 ```bash
 pip install -r requirements.txt
 ```
-- Lastly you can run the .py file conrainkng the code with rhe following command
+- Lastly, you can run the .py file containing the code with the following command
 ```
 python<version> <file_name>.py
 ```
